@@ -194,7 +194,7 @@ export default function HomePage() {
               </h2>
               <p className="text-blue-100 text-lg mb-8 max-w-2xl mx-auto">
                 Whether you want to add a new school to our directory or explore existing institutions, 
-                we've made it simple and intuitive.
+                we&apos;ve made it simple and intuitive.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
